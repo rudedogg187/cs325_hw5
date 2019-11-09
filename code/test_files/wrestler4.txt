@@ -1,0 +1,14 @@
+4
+Alice
+Bob
+Chris
+Danny
+3
+Alice Bob
+Chris Danny
+Bob Danny
+
+// Sample Solution
+Yes Possible
+Babyfaces: Alice Danny
+Heels: Bob Chris
