@@ -1,0 +1,13 @@
+4
+Bear
+Killer
+Duke
+Samson
+5
+Bear Samson
+Bear Duke
+Killer Bear
+Samson Duke
+Killer Duke
+
+// Impossible
